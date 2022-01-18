@@ -1,4 +1,4 @@
-https://lab.cs50.io/Estadistica-e-Informatica-2021-2022/Laboratorio_1/
+https://lab.cs50.io/Estadistica-e-Informatica-2021-2022/Laboratorio_1/main/
 
 
 # Compilación y ejecución en el laboratorio en línea
