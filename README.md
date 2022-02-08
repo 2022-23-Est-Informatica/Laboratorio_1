@@ -1,7 +1,7 @@
 https://lab.cs50.io/imaguila/Laboratorio_1/main/
 
 
-# Compilación y ejecución en el laboratorio en línea
+# Repo personal Compilación y ejecución en el laboratorio en línea
 
 ## Etapas del desarrollo de programas
 
