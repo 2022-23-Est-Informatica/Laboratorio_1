@@ -2,4 +2,4 @@ lab50:
   files:
     - !exclude "*"
     - !include hola.c
-    - !include pseudocode.txt
+    - !include Practica1.c
